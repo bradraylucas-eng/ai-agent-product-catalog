@@ -1,0 +1,3 @@
+# Official Model Context Protocol Python SDK (v1.x API used by this code).
+# NOTE: mcp 2.x renamed FastMCP -> MCPServer; pin to v1 to run this code as-is.
+mcp>=1.6.0,<2
