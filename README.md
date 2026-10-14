@@ -34,3 +34,11 @@ Store: https://bradray2.gumroad.com
 2. Copy the `site/` contents to the repo root (or `docs/`).
 3. Enable GitHub Pages on the repo (branch root or `docs/`). The pages above are written against the Pages URL in the table.
 4. The MCP server folder can live in the same repo as source code for tool authors.
+
+## More from this line
+
+- Free samples (Source Finder data + AgentProof tests): https://github.com/bradraylucas-eng/ai-agent-tools-free-samples
+- mcp-notes-server (free, MIT): https://github.com/bradraylucas-eng/mcp-notes-server
+- On dev.to: "I verified all 160 official U.S. business-data portals so your agent doesn't have to" — https://dev.to/bradraylucaseng/i-verified-all-160-official-us-business-data-portals-so-your-agent-doesnt-have-to-heres-what-5g3d
+- On dev.to: "Your Agent Demo Works. These 5 Failure Classes Show Up in Production." — https://dev.to/bradraylucaseng/your-agent-demo-works-these-5-failure-classes-show-up-in-production-23je
+- Store: https://bradray2.gumroad.com
