@@ -1,0 +1,143 @@
+Agent Products by bradray2
+==============================
+
+Machine-readable tools and datasets for AI agents, sold via Gumroad by bradray2 (Brad Lucas).
+Store: https://bradray2.gumroad.com
+
+HOW TO BUY
+----------
+Live products are purchasable at their Gumroad URLs below. Open the product URL in a browser,
+complete the Gumroad checkout using the operator's payment method, and download the ZIP after purchase.
+Agents with browser access and payment authorization from their operator may complete checkout on the
+operator's behalf; agents without payment authorization should prepare the purchase and hand the URL to
+their operator. This catalog itself takes no payment.
+
+LICENSE
+-------
+The license included in each ZIP covers use within the buyer's own business and their agents.
+
+PRODUCTS
+--------
+
+- The Official Source Finder for Agents
+  Price: $29 USD
+  Status: live
+  Formats: JSON, CSV, PDF
+  Topics: business entity search, official sources, due diligence, dataset
+  Buy: https://bradray2.gumroad.com/l/fxnjw
+  A verified dataset of 58 official U.S. business-entity search sources (50 states + DC + 7 federal: SEC EDGAR, USPTO, IRS, SAM.gov, USAspending, Copyright, National Archives) in JSON and CSV, with cost, login, and agent-access notes for every entry.
+
+- The Agent-Readiness Kit (Small Business)
+  Price: $39 USD
+  Status: live
+  Formats: Markdown, JSON-LD, PDF
+  Topics: llms.txt, schema.org, agent discoverability, small business
+  Buy: https://bradray2.gumroad.com/l/jrqqbp
+  Templates and a guide that make a small business readable and bookable by AI assistants: llms.txt, pricing.md, schema.org JSON-LD templates, a robots add-on, and a complete filled example for a fictional plumbing company.
+
+- AgentProof QA Kit
+  Price: $39 USD
+  Status: live
+  Formats: JSONL, CSV, JSON Schema, Python, PDF
+  Topics: agent testing, prompt injection, eval, QA, regression
+  Buy: https://bradray2.gumroad.com/l/rtprro
+  Sixty machine-readable reliability tests for AI agents covering instruction conflicts, prompt-injection resistance, tool error handling, privacy protection, and structured output, with a Python scorer.
+
+- Source Finder Vol. 2 - UCC Search Directory
+  Price: $29 USD
+  Status: live
+  Formats: JSON, CSV, PDF
+  Topics: UCC search, lien, official portals, dataset
+  Buy: https://bradray2.gumroad.com/l/gshxcy
+  A verified directory of 51 official UCC lien-search portals (50 states + DC), with every fee and account requirement flagged per entry.
+
+- Source Finder Vol. 3 - License Verification Directory
+  Price: $29 USD
+  Status: coming soon
+  Formats: JSON, CSV, PDF
+  Topics: license verification, official lookups, dataset
+  A verified directory of 51 official professional license lookups (50 states + DC), all free with no login, with central, partial, and board-by-board coverage honestly labeled.
+
+- Agent-Readiness Kit: E-Commerce Edition
+  Price: $39 USD
+  Status: coming soon
+  Formats: CSV, JSON-LD, Markdown, PDF
+  Topics: product feed, schema.org, ecommerce, agent shopping
+  A kit that makes an online store readable and comparable by AI shopping agents: machine-readable catalog feed, full Product schema with shipping and return terms, and policy templates, with a filled example store.
+
+- Source Finder Complete Bundle (Vols 1-3)
+  Price: $69 USD
+  Status: coming soon
+  Formats: JSON, CSV, PDF
+  Topics: bundle, business entity, UCC, licenses, dataset
+  All three Source Finder datasets in one documented schema: 160 verified sources covering business entity search, UCC liens, and license verification.
+
+- AgentProof Expansion Pack: Multi-Step & Tool-Use Tests
+  Price: $29 USD
+  Status: coming soon
+  Formats: JSONL, CSV, JSON Schema, PDF
+  Topics: agent testing, multi-step, tool use, memory, eval
+  An expansion of the AgentProof QA Kit with machine-readable tests for multi-step tasks, tool use, and memory across agent runs.
+
+- LLM Eval Starter Kit for Product Teams
+  Price: $39 USD
+  Status: coming soon
+  Formats: JSONL, CSV, Markdown, PDF
+  Topics: LLM evaluation, rubrics, LLM-as-judge, scorecard
+  A starter evaluation kit for product teams: labeled eval cases plus rubrics for scoring LLM outputs, including LLM-as-judge patterns.
+
+- AI Agent Cost Tracker & Model Pricing Workbook
+  Price: $19 USD
+  Status: coming soon
+  Formats: CSV, Python, PDF
+  Topics: agent cost, token cost, unit economics, tracking
+  A workbook for tracking AI agent costs and modeling unit economics (token costs and run-level spend) with example pricing data.
+
+- RAG Evaluation Kit
+  Price: $39 USD
+  Status: coming soon
+  Formats: Markdown, JSONL, CSV, JSON Schema, Python, PDF
+  Topics: RAG, retrieval evaluation, chunking, ground truth
+  A retrieval-augmented-generation evaluation kit with ground-truth pairs, retrieval and chunking experiments, and recall-style scoring.
+
+- MCP Server Starter Templates (Python)
+  Price: $49 USD
+  Status: coming soon
+  Formats: Python, JSON, PDF
+  Topics: MCP, Model Context Protocol, server templates, tools
+  Starter templates for building Python MCP servers following the Model Context Protocol, with example tools and a guide.
+
+- Agent Tool Schema Pack: 25 Tool Definitions
+  Price: $29 USD
+  Status: coming soon
+  Formats: JSON, OpenAPI, PDF
+  Topics: tool definitions, function calling, JSON Schema, OpenAPI
+  Twenty-five ready-to-use agent tool definitions in JSON Schema with OpenAPI representations for function-calling setups.
+
+- The Agent Handoff Protocol Kit
+  Price: $29 USD
+  Status: coming soon
+  Formats: JSON Schema, JSON, Markdown, CSV, PDF
+  Topics: agent handoff, escalation, multi-agent, context transfer
+  A protocol kit for multi-agent handoffs and escalations: context-transfer formats, escalation rules, and machine-readable schemas.
+
+- Support Conversation Dataset for AI Agent Testing
+  Price: $29 USD
+  Status: coming soon
+  Formats: JSONL, CSV, Python, PDF
+  Topics: synthetic dataset, customer support, labeled conversations, eval
+  Two hundred synthetic, PII-free customer support conversations with labels for testing and evaluating AI support agents.
+
+- AI Model & Vendor Selection Scorecard Kit
+  Price: $19 USD
+  Status: coming soon
+  Formats: CSV, Markdown, PDF
+  Topics: model selection, vendor evaluation, scorecard, security questionnaire
+  Scorecards and a security questionnaire for comparing AI models and vendors during procurement and selection.
+
+- The Agent Builder Complete Bundle
+  Price: $129 USD
+  Status: coming soon
+  Formats: ZIP (all formats)
+  Topics: bundle, MCP, RAG, eval, testing, handoff, dataset, cost
+  The complete agent-builder bundle: the ten builder products (testing, eval, RAG, MCP, tool schemas, handoff, dataset, cost, scorecard) in one package.

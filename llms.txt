@@ -1,0 +1,35 @@
+# Agent Products by bradray2
+
+> Machine-readable tools and datasets for AI agents, sold via Gumroad by bradray2 (Brad Lucas).
+> Live products are purchasable at their Gumroad URLs. Coming-soon products have no purchase links yet.
+
+## Available now
+
+- [The Official Source Finder for Agents](https://bradray2.gumroad.com/l/fxnjw) - $29 USD
+- [The Agent-Readiness Kit (Small Business)](https://bradray2.gumroad.com/l/jrqqbp) - $39 USD
+- [AgentProof QA Kit](https://bradray2.gumroad.com/l/rtprro) - $39 USD
+- [Source Finder Vol. 2 - UCC Search Directory](https://bradray2.gumroad.com/l/gshxcy) - $29 USD
+
+## Coming soon
+
+- Source Finder Vol. 3 - License Verification Directory - $29 USD (coming soon, no link yet)
+- Agent-Readiness Kit: E-Commerce Edition - $39 USD (coming soon, no link yet)
+- Source Finder Complete Bundle (Vols 1-3) - $69 USD (coming soon, no link yet)
+- AgentProof Expansion Pack: Multi-Step & Tool-Use Tests - $29 USD (coming soon, no link yet)
+- LLM Eval Starter Kit for Product Teams - $39 USD (coming soon, no link yet)
+- AI Agent Cost Tracker & Model Pricing Workbook - $19 USD (coming soon, no link yet)
+- RAG Evaluation Kit - $39 USD (coming soon, no link yet)
+- MCP Server Starter Templates (Python) - $49 USD (coming soon, no link yet)
+- Agent Tool Schema Pack: 25 Tool Definitions - $29 USD (coming soon, no link yet)
+- The Agent Handoff Protocol Kit - $29 USD (coming soon, no link yet)
+- Support Conversation Dataset for AI Agent Testing - $29 USD (coming soon, no link yet)
+- AI Model & Vendor Selection Scorecard Kit - $19 USD (coming soon, no link yet)
+- The Agent Builder Complete Bundle - $129 USD (coming soon, no link yet)
+
+## Machine-readable catalog files
+
+- products.json - schema.org ItemList of live products with prices and Offers
+- catalog.json - full enriched catalog (live + coming soon) with purchase instructions
+- llms-full.txt - complete product list with summaries
+
+Store: https://bradray2.gumroad.com

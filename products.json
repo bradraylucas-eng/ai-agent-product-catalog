@@ -1,0 +1,97 @@
+{
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "Agent Products by bradray2 - Machine-readable tools and datasets for AI agents",
+  "url": "https://bradraylucas-eng.github.io/ai-agent-product-catalog/",
+  "numberOfItems": 4,
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "item": {
+        "@type": "Product",
+        "name": "The Official Source Finder for Agents",
+        "description": "A verified dataset of 58 official U.S. business-entity search sources (50 states + DC + 7 federal: SEC EDGAR, USPTO, IRS, SAM.gov, USAspending, Copyright, National Archives) in JSON and CSV, with cost, login, and agent-access notes for every entry.",
+        "url": "https://bradray2.gumroad.com/l/fxnjw",
+        "seller": {
+          "@type": "Organization",
+          "name": "bradray2",
+          "url": "https://bradray2.gumroad.com"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 29,
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "url": "https://bradray2.gumroad.com/l/fxnjw"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "item": {
+        "@type": "Product",
+        "name": "The Agent-Readiness Kit (Small Business)",
+        "description": "Templates and a guide that make a small business readable and bookable by AI assistants: llms.txt, pricing.md, schema.org JSON-LD templates, a robots add-on, and a complete filled example for a fictional plumbing company.",
+        "url": "https://bradray2.gumroad.com/l/jrqqbp",
+        "seller": {
+          "@type": "Organization",
+          "name": "bradray2",
+          "url": "https://bradray2.gumroad.com"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 39,
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "url": "https://bradray2.gumroad.com/l/jrqqbp"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "item": {
+        "@type": "Product",
+        "name": "AgentProof QA Kit",
+        "description": "Sixty machine-readable reliability tests for AI agents covering instruction conflicts, prompt-injection resistance, tool error handling, privacy protection, and structured output, with a Python scorer.",
+        "url": "https://bradray2.gumroad.com/l/rtprro",
+        "seller": {
+          "@type": "Organization",
+          "name": "bradray2",
+          "url": "https://bradray2.gumroad.com"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 39,
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "url": "https://bradray2.gumroad.com/l/rtprro"
+        }
+      }
+    },
+    {
+      "@type": "ListItem",
+      "position": 4,
+      "item": {
+        "@type": "Product",
+        "name": "Source Finder Vol. 2 - UCC Search Directory",
+        "description": "A verified directory of 51 official UCC lien-search portals (50 states + DC), with every fee and account requirement flagged per entry.",
+        "url": "https://bradray2.gumroad.com/l/gshxcy",
+        "seller": {
+          "@type": "Organization",
+          "name": "bradray2",
+          "url": "https://bradray2.gumroad.com"
+        },
+        "offers": {
+          "@type": "Offer",
+          "price": 29,
+          "priceCurrency": "USD",
+          "availability": "https://schema.org/InStock",
+          "url": "https://bradray2.gumroad.com/l/gshxcy"
+        }
+      }
+    }
+  ]
+}
