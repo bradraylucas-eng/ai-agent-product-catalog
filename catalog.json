@@ -3,7 +3,7 @@
     "name": "Agent Products by bradray2 (Brad Lucas)",
     "url": "https://bradray2.gumroad.com"
   },
-  "generated": "2026-10-14",
+  "generated": "2026-10-20",
   "purchase_instructions": "To buy a product with 'live' status: open the product URL in a browser, complete the Gumroad checkout using the operator's payment method, and download the ZIP file after purchase. Agents with browser access and payment authorization from their operator may complete checkout on the operator's behalf; agents without payment authorization should prepare the purchase and hand the URL to their operator. The license included in each ZIP covers use within the buyer's own business and their agents.",
   "products": [
     {
@@ -63,19 +63,20 @@
     {
       "name": "Source Finder Vol. 3 - License Verification Directory",
       "price_usd": 29,
-      "status": "coming_soon",
+      "status": "live",
       "formats": [
         "JSON",
         "CSV",
         "PDF"
       ],
       "keywords": "license verification, official lookups, dataset",
-      "summary": "A verified directory of 51 official professional license lookups (50 states + DC), all free with no login, with central, partial, and board-by-board coverage honestly labeled."
+      "summary": "A verified directory of 51 official professional license lookups (50 states + DC), all free with no login, with central, partial, and board-by-board coverage honestly labeled.",
+      "url": "https://bradray2.gumroad.com/l/erqmf"
     },
     {
       "name": "Agent-Readiness Kit: E-Commerce Edition",
       "price_usd": 39,
-      "status": "coming_soon",
+      "status": "live",
       "formats": [
         "CSV",
         "JSON-LD",
@@ -83,24 +84,26 @@
         "PDF"
       ],
       "keywords": "product feed, schema.org, ecommerce, agent shopping",
-      "summary": "A kit that makes an online store readable and comparable by AI shopping agents: machine-readable catalog feed, full Product schema with shipping and return terms, and policy templates, with a filled example store."
+      "summary": "A kit that makes an online store readable and comparable by AI shopping agents: machine-readable catalog feed, full Product schema with shipping and return terms, and policy templates, with a filled example store.",
+      "url": "https://bradray2.gumroad.com/l/vrvokm"
     },
     {
       "name": "Source Finder Complete Bundle (Vols 1-3)",
       "price_usd": 69,
-      "status": "coming_soon",
+      "status": "live",
       "formats": [
         "JSON",
         "CSV",
         "PDF"
       ],
       "keywords": "bundle, business entity, UCC, licenses, dataset",
-      "summary": "All three Source Finder datasets in one documented schema: 160 verified sources covering business entity search, UCC liens, and license verification."
+      "summary": "All three Source Finder datasets in one documented schema: 160 verified sources covering business entity search, UCC liens, and license verification.",
+      "url": "https://bradray2.gumroad.com/l/qvobqd"
     },
     {
       "name": "AgentProof Expansion Pack: Multi-Step & Tool-Use Tests",
       "price_usd": 29,
-      "status": "coming_soon",
+      "status": "live",
       "formats": [
         "JSONL",
         "CSV",
@@ -108,12 +111,13 @@
         "PDF"
       ],
       "keywords": "agent testing, multi-step, tool use, memory, eval",
-      "summary": "An expansion of the AgentProof QA Kit with machine-readable tests for multi-step tasks, tool use, and memory across agent runs."
+      "summary": "An expansion of the AgentProof QA Kit with machine-readable tests for multi-step tasks, tool use, and memory across agent runs.",
+      "url": "https://bradray2.gumroad.com/l/jmlyoq"
     },
     {
       "name": "LLM Eval Starter Kit for Product Teams",
       "price_usd": 39,
-      "status": "coming_soon",
+      "status": "live",
       "formats": [
         "JSONL",
         "CSV",
@@ -121,24 +125,26 @@
         "PDF"
       ],
       "keywords": "LLM evaluation, rubrics, LLM-as-judge, scorecard",
-      "summary": "A starter evaluation kit for product teams: labeled eval cases plus rubrics for scoring LLM outputs, including LLM-as-judge patterns."
+      "summary": "A starter evaluation kit for product teams: labeled eval cases plus rubrics for scoring LLM outputs, including LLM-as-judge patterns.",
+      "url": "https://bradray2.gumroad.com/l/xxvgln"
     },
     {
       "name": "AI Agent Cost Tracker & Model Pricing Workbook",
       "price_usd": 19,
-      "status": "coming_soon",
+      "status": "live",
       "formats": [
         "CSV",
         "Python",
         "PDF"
       ],
       "keywords": "agent cost, token cost, unit economics, tracking",
-      "summary": "A workbook for tracking AI agent costs and modeling unit economics (token costs and run-level spend) with example pricing data."
+      "summary": "A workbook for tracking AI agent costs and modeling unit economics (token costs and run-level spend) with example pricing data.",
+      "url": "https://bradray2.gumroad.com/l/kyrhfx"
     },
     {
       "name": "RAG Evaluation Kit",
       "price_usd": 39,
-      "status": "coming_soon",
+      "status": "live",
       "formats": [
         "Markdown",
         "JSONL",
@@ -148,36 +154,39 @@
         "PDF"
       ],
       "keywords": "RAG, retrieval evaluation, chunking, ground truth",
-      "summary": "A retrieval-augmented-generation evaluation kit with ground-truth pairs, retrieval and chunking experiments, and recall-style scoring."
+      "summary": "A retrieval-augmented-generation evaluation kit with ground-truth pairs, retrieval and chunking experiments, and recall-style scoring.",
+      "url": "https://bradray2.gumroad.com/l/shiez"
     },
     {
       "name": "MCP Server Starter Templates (Python)",
       "price_usd": 49,
-      "status": "coming_soon",
+      "status": "live",
       "formats": [
         "Python",
         "JSON",
         "PDF"
       ],
       "keywords": "MCP, Model Context Protocol, server templates, tools",
-      "summary": "Starter templates for building Python MCP servers following the Model Context Protocol, with example tools and a guide."
+      "summary": "Starter templates for building Python MCP servers following the Model Context Protocol, with example tools and a guide.",
+      "url": "https://bradray2.gumroad.com/l/brxwkjt"
     },
     {
       "name": "Agent Tool Schema Pack: 25 Tool Definitions",
       "price_usd": 29,
-      "status": "coming_soon",
+      "status": "live",
       "formats": [
         "JSON",
         "OpenAPI",
         "PDF"
       ],
       "keywords": "tool definitions, function calling, JSON Schema, OpenAPI",
-      "summary": "Twenty-five ready-to-use agent tool definitions in JSON Schema with OpenAPI representations for function-calling setups."
+      "summary": "Twenty-five ready-to-use agent tool definitions in JSON Schema with OpenAPI representations for function-calling setups.",
+      "url": "https://bradray2.gumroad.com/l/zsrcrl"
     },
     {
       "name": "The Agent Handoff Protocol Kit",
       "price_usd": 29,
-      "status": "coming_soon",
+      "status": "live",
       "formats": [
         "JSON Schema",
         "JSON",
@@ -186,12 +195,13 @@
         "PDF"
       ],
       "keywords": "agent handoff, escalation, multi-agent, context transfer",
-      "summary": "A protocol kit for multi-agent handoffs and escalations: context-transfer formats, escalation rules, and machine-readable schemas."
+      "summary": "A protocol kit for multi-agent handoffs and escalations: context-transfer formats, escalation rules, and machine-readable schemas.",
+      "url": "https://bradray2.gumroad.com/l/drverb"
     },
     {
       "name": "Support Conversation Dataset for AI Agent Testing",
       "price_usd": 29,
-      "status": "coming_soon",
+      "status": "live",
       "formats": [
         "JSONL",
         "CSV",
@@ -199,29 +209,56 @@
         "PDF"
       ],
       "keywords": "synthetic dataset, customer support, labeled conversations, eval",
-      "summary": "Two hundred synthetic, PII-free customer support conversations with labels for testing and evaluating AI support agents."
+      "summary": "Two hundred synthetic, PII-free customer support conversations with labels for testing and evaluating AI support agents.",
+      "url": "https://bradray2.gumroad.com/l/oojou"
     },
     {
       "name": "AI Model & Vendor Selection Scorecard Kit",
       "price_usd": 19,
-      "status": "coming_soon",
+      "status": "live",
       "formats": [
         "CSV",
         "Markdown",
         "PDF"
       ],
       "keywords": "model selection, vendor evaluation, scorecard, security questionnaire",
-      "summary": "Scorecards and a security questionnaire for comparing AI models and vendors during procurement and selection."
+      "summary": "Scorecards and a security questionnaire for comparing AI models and vendors during procurement and selection.",
+      "url": "https://bradray2.gumroad.com/l/ufemx"
     },
     {
       "name": "The Agent Builder Complete Bundle",
       "price_usd": 129,
-      "status": "coming_soon",
+      "status": "live",
       "formats": [
         "ZIP (all formats)"
       ],
       "keywords": "bundle, MCP, RAG, eval, testing, handoff, dataset, cost",
-      "summary": "The complete agent-builder bundle: the ten builder products (testing, eval, RAG, MCP, tool schemas, handoff, dataset, cost, scorecard) in one package."
+      "summary": "The complete agent-builder bundle: the ten builder products (testing, eval, RAG, MCP, tool schemas, handoff, dataset, cost, scorecard) in one package.",
+      "url": "https://bradray2.gumroad.com/l/jgsowa"
+    },
+    {
+      "name": "AgentProof QA Kit — FREE Sample (8 of 60 AI Agent Reliability Tests, JSONL)",
+      "price_usd": 0,
+      "status": "live",
+      "formats": [
+        "JSONL",
+        "Markdown"
+      ],
+      "keywords": "ai agents, llm, ai tools, ai automation, developer tools, prompt injection, ai evaluation, json",
+      "summary": "Eight real test cases from the AgentProof QA Kit, free in JSONL: prompt injection, conflicting instructions, broken tools, and privacy traps, each with expected behavior and must/must-not grading rubrics.",
+      "url": "https://bradray2.gumroad.com/l/coavs"
+    },
+    {
+      "name": "Source Finder for Agents — FREE Sample (22 Verified Official U.S. Data Sources, JSON)",
+      "price_usd": 0,
+      "status": "live",
+      "formats": [
+        "JSON",
+        "Markdown"
+      ],
+      "keywords": "ai agents, llm, ai tools, ai automation, developer tools, dataset, json, due diligence",
+      "summary": "Twenty-two verified official U.S. government data-source entries in JSON — 8 business-entity, 7 UCC lien, 7 license-verification — each with the official URL, cost, login requirement, and agent-access notes.",
+      "url": "https://bradray2.gumroad.com/l/hrwjcl"
     }
   ]
 }
